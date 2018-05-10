@@ -57,8 +57,5 @@ excerpt_separator: "\n\n\n\n"
 
 # paginate
 plugins: [jekyll-paginate]
-<<<<<<< HEAD
-paginate: 4
-=======
 paginate: 6
->>>>>>> 781b3ab74cf03eae1034a3132e6d898150d48518
+
